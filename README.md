@@ -12,6 +12,10 @@ I am a tech enthusiast on machine learning, computer vision and data science. Fe
 
 - BSc, Internet and multimedia technology
 
+## Linkedin
 
+https://www.linkedin.com/in/ka-ho-lau-10872982/
+
+## Github Stats
 
 [![Ka Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=laukaho&theme=swift&show_icons=true)](https://github.com/laukaho)
