@@ -14,4 +14,4 @@ I am a tech enthusiast on machine learning, computer vision and data science. Fe
 
 
 
-[![Ka Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=laukaho)](https://github.com/laukaho/github-readme-stats)
+[![Ka Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=laukaho&theme=swift&show_icons=true)](https://github.com/laukaho/github-readme-stats)
